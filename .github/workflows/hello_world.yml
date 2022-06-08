@@ -56,4 +56,4 @@ jobs:
     
     steps:
       - name: Print Hello world MacOS
-        run: echo 'Hello World rodando no MacOS'
+        run: echo 'Hello World rodando MacOS'
