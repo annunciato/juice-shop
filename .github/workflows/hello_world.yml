@@ -49,7 +49,7 @@ jobs:
 
   hello-world-macos:
     name: Hello worls MacOS
-    runs-on: macos-lastest
+    runs-on: macos-latest
     needs:
       - hello-world-ubuntu
       - hello-world-windows
