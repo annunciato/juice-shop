@@ -41,7 +41,7 @@ jobs:
   
   hello-world-windows:
     name: Hello world Windows
-    needs: [hello-world-ubuntu]
+    needs: [ hello-world-ubuntu ]
     runs-on: windows-latest
     
     steps:
